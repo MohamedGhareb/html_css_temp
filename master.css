@@ -161,7 +161,7 @@ border-bottom: 1px solid rgb(219, 216, 216);
 /* end header  */
 /* <!-- start landing section  --> */
 .landing{
-    background-image: url(/images/mount.png);
+    background-image: url(images/mount.png);
     background-size: cover;
     height: calc(100vh - 70px);
     position: relative;
